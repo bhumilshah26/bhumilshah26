@@ -16,4 +16,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhumilshah26&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Easter Eggs I Find
-![Daily Quote](https://eastereggs-git-main-bhumil-shahs-projects.vercel.app/api/quote?v=2)
+![Daily Quote](https://eastereggs-git-main-bhumil-shahs-projects.vercel.app/api/quote?v=3)
