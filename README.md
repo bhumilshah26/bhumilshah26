@@ -15,4 +15,4 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=bhumilshah26&theme=dark&hide_border=false)<br/>
 
 ### ✍️ Easter Eggs I Find
-![Daily Quote](https://eastereggs-git-main-bhumil-shahs-projects.vercel.app/api/quote?v=7)
+![Daily Quote](https://eastereggs-git-main-bhumil-shahs-projects.vercel.app/api/quote?v=90)
