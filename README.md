@@ -1,10 +1,9 @@
 # <p align="center">Hi👋, I'm Bhumil Shah</p>
 
-<p align="center"><strong>Pursuing B.Tech in Computer Engineering</strong></p>
-🔭  Passionate about learning new tech and languages in development<br>💻  Worked as a Full Stack Developer for Evotto Pvt. Ltd.<br>🌱  I’m currently learning Data Science And PowerBI<br>⚡  Fun fact: I like finding easter eggs🥚in various programming languages<br> &lt;/&gt;Thrive on solving problems and tackling challenges with logic and creativity<br>💬  You can reach me at : bhumil.shah2608@gmail.com
-<br>📄 Find my resume: 
-<a href="https://drive.google.com/drive/u/0/folders/1LtUxPUFHd5SDccvxR-IXeVcIIvj6jL9Q"> Resume </a>
-
+## <p align="center">Pursuing B.Tech in Computer Engineering</p>
+🔭  Passionate about learning new tech and languages in development<br>💻  Worked as a Full Stack Developer for Evotto Pvt. Ltd.<br>🌱  I’m currently learning Data Science And PowerBI<br>⚡  Fun fact: I like finding easter eggs🥚in various programming languages<br> &lt;/&gt;Thrive on solving problems and tackling challenges with logic and creativity<br>
+💬 You can reach me at : [bhumil.shah2608@gmail.com](mailto:bhumil.shah2608@gmail.com)
+<br>📄 Find my resume: <a href="https://drive.google.com/drive/u/0/folders/1LtUxPUFHd5SDccvxR-IXeVcIIvj6jL9Q"> Resume </a>
 
 
 ## 🌐 Find Me:
