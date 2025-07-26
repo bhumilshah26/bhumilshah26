@@ -10,8 +10,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhumilshah26) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?logo=LeetCode&logoColor=yellow)](https://leetcode.com/u/Life_Code) 
 [![HackerRank](https://img.shields.io/badge/Hackerrank-%230C141C.svg?logo=hackerrank&logoColor=#2bc461)](https://www.hackerrank.com/profile/bhumil_shah2608) 
-## 💻 Tech Stack:
 
+## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -53,8 +53,10 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bhumilshah26&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=bhumilshah26&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=bhumilshah26&theme=react&background=black)<br/>
+![](https://github-readme-stats.vercel.app/api?username=bhumilshah26&theme=react&show_icons=true&bg_color=000000&text_color=dddddd)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=bhumilshah26&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
+<!-- ![](https://nirzak-streak-stats.vercel.app/?user=bhumilshah26&theme=dark&hide_border=false)<br/> -->
 
-### ✍️ Easter Eggs I Find
-![Daily Quote](https://eastereggs-git-main-bhumil-shahs-projects.vercel.app/api/quote?v=99)
+### ✍️ Easter Eggs I Find (My own)
+![Daily Quote](https://eastereggs-git-main-bhumil-shahs-projects.vercel.app/api/quote?v=3)
