@@ -59,4 +59,4 @@
 <!-- ![](https://nirzak-streak-stats.vercel.app/?user=bhumilshah26&theme=dark&hide_border=false)<br/> -->
 
 ### ✍️ Easter Eggs I Find (My own)
-![Daily Quote](https://eastereggs-git-main-bhumil-shahs-projects.vercel.app/api/quote?v=4)
+![Daily Quote](https://eastereggs-git-main-bhumil-shahs-projects.vercel.app/api/quote?v=5)
