@@ -35,6 +35,7 @@
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Warp](https://img.shields.io/badge/WARP-black.svg?style=for-the-badge&logo=warp&logoColor=white) 
 ![Burp Suite](https://img.shields.io/badge/burp%20suite-%23FF6F00.svg?style=for-the-badge&logo=burpsuite&logoColor=white) 
 ![pgAdmin 4](https://img.shields.io/badge/pgAdmin%204-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
