@@ -1,7 +1,7 @@
 # <p align="center">Hi👋, I'm Bhumil Shah</p>
 
 ## <p align="center">Pursuing B.Tech in Computer Engineering</p>
-🔭  Passionate about learning new tech and languages in development<br>💻  Worked as a Full Stack Developer for Evotto Pvt. Ltd.<br>🌱  I’m currently learning Amazon Web Services(AWS) and Data Engineering<br>⚡  Fun fact: I like finding easter eggs🥚in various programming languages<br> &lt;/&gt;Thrive on solving problems and tackling challenges with logic and creativity<br>
+🔭  Passionate about learning new tech and languages in development<br>💻  Worked as a Full Stack Developer for Evotto Pvt. Ltd.<br>🌱  I’m currently learning AI and Machine Learning<br>⚡  Fun fact: I like finding easter eggs🥚in various programming languages<br> &lt;/&gt;Thrive on solving problems and tackling challenges with logic and creativity<br>
 💬 You can reach me at: [bhumil.shah2608@gmail.com](mailto:bhumil.shah2608@gmail.com)
 <br>📄 Find my resume: <a href="https://drive.google.com/drive/u/0/folders/1LtUxPUFHd5SDccvxR-IXeVcIIvj6jL9Q" target="_blank" rel="noopener noreferrer"> Resume </a>
 
